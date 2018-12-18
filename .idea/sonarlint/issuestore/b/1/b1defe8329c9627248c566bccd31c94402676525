@@ -1,0 +1,37 @@
+
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8›ÏÛ÷ì,
+V
+squid:S106{"9Replace this use of System.out or System.err by a logger.(°‚Ì8Ú—‡í,
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(™÷ôåüÿÿÿÿ8Õ Ğ‡í,
+[
+squid:S106q"9Replace this use of System.out or System.err by a logger.(†«‡²ùÿÿÿÿ8Ú—‡í,
+vsquid:S3973z"XUse curly braces or indentation to denote the code conditionally executed by this "for".(Á¬‰Ü8Ú—‡í,
+V
+squid:S106y"9Replace this use of System.out or System.err by a logger.(Ø„£«8Ú—‡í,
+\
+squid:S106“"9Replace this use of System.out or System.err by a logger.(¶—‹öúÿÿÿÿ8Õ Ğ‡í,
+Usquid:S1854""7Remove this useless assignment to local variable "set".(Ÿï„Ù8“§æúì,
+gsquid:UnusedPrivateMethod?"6Remove this unused private "readOnlyArrayList" method.(°ûƒ³øÿÿÿÿ8Ú—‡í,
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â¤áh8Ú—‡í,
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(§¬ÓŞşÿÿÿÿ8É‡øì,
+esquid:UnusedPrivateMethod"9Remove this unused private "synchronizeArrayList" method.(”§…õ8ÂÂò€í,
+\
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(˜¹Ã’üÿÿÿÿ8Õ Ğ‡í,
+vsquid:S3973p"XUse curly braces or indentation to denote the code conditionally executed by this "for".(Ã°óî8Ú—‡í,
+V
+squid:S106v"9Replace this use of System.out or System.err by a logger.(öÚ¸ì8Ú—‡í,
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·«¥ê8Û‰ê÷ì,
+esquid:UnusedPrivateMethod1"9Remove this unused private "copyOnWriteArrayList" method.(’óÍ§8Ùò€í,
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ñ¼Üúÿÿÿÿ8Îï÷ì,
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(å©´Ì8»±ì÷ì,
+V
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(„¤Ì¢8È«ğ€í,
+Fsquid:S1481""(Remove this unused "set" local variable.(Ÿï„Ù8“§æúì,
+wsquid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÕŠï8É‡øì,
+xsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(àøñ«8Õ Ğ‡í,
+V
+squid:S106o"9Replace this use of System.out or System.err by a logger.(–â“Ê8Ú—‡í,

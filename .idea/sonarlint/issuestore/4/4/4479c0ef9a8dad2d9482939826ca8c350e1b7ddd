@@ -1,0 +1,8 @@
+
+bsquid:S3358"DExtract this nested ternary operation into an independent statement.(×…ÒÕ8¼õÓ¥ï,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8®‡¡¥ï,
+Fsquid:S1125"(Remove the literal "true" boolean value.(×…ÒÕ8¼õÓ¥ï,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´üÜšüÿÿÿÿ8¼õÓ¥ï,
+Fsquid:S1125"(Remove the literal "true" boolean value.(×…ÒÕ8¼õÓ¥ï,

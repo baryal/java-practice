@@ -1,0 +1,7 @@
+
+Jsquid:S1068".Remove this unused "cardNumber" private field.(Û¾ïÇ8Œ‰¾Óí,
+Ksquid:S1068"0Remove this unused "dateOfExpiry" private field.(Ò¹ëY8Œ‰¾Óí,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚«Á úÿÿÿÿ8Œ‰¾Óí,
+Bsquid:S1068"'Remove this unused "cvv" private field.(ÃÅ:8Œ‰¾Óí,
+Dsquid:S1068"(Remove this unused "name" private field.(Ë¥¼8Œ‰¾Óí,
